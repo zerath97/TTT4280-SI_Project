@@ -1,1 +1,1 @@
-# TTT4280-SI_Project
+# TTT4280 - Sensors and Instrumentation: Semester projects
